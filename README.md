@@ -1,0 +1,2 @@
+# Apple-Stock-Price-Forecasting-using-Time-Series-Models
+This project focuses on forecasting stock prices, specifically demonstrating the application of both traditional time series models and modern deep learning techniques. It implements and compares the performance of the Autoregressive Integrated Moving Average (ARIMA) model and the Long Short-Term Memory (LSTM) neural network for stock prediction.
